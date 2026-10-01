@@ -17,3 +17,5 @@ Production target: https://lt-vipr-resource.vercel.app/
 ## Deployment
 
 This repository is intended to be connected to the existing Vercel project `lt-vipr-resource`. Pushes to `main` should deploy automatically once the Git integration is connected.
+
+Deployment trigger: Git-backed production sync verified.
